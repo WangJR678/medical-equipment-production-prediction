@@ -1,0 +1,31 @@
+{
+  "name": "medical-equipment-production-prediction",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "echarts": "^5.5.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "vue": "^3.4.21",
+    "vue-echarts": "^6.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/cli-service": "^4.5.0",
+    "vite": "^5.2.8"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
